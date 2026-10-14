@@ -1,4 +1,4 @@
-# git-lab-team
+# git-lab-team (A version)
 
 ## Team members
 - Student A: emmanuelaugust104-hue
